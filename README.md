@@ -27,4 +27,4 @@
 <br>
 <p>5. Digite o comando <code>node index.js</code> no terminal do seu editor de código</p>
 <br>
-<p>6. Acesse o projeto no endereço "http://localhost:3000/"</p>
+<p>6. Acesse o projeto no endereço <a href="http://localhost:3000/">http://localhost:3000/</a></p>
