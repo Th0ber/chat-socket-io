@@ -21,6 +21,10 @@
 <p>2. Caso não tenha o Nodejs na sua maquina ⬇️</p>
 <p><a href="https://nodejs.org/pt">Baixar NodeJs</a></p>
 <br>
-<p>3. Digite o comando <code>node index.js</code> no terminal do seu editor de código</p>
+<p>3. Gerencie os pacotes com o comando <code>npm init</code></p>
 <br>
-<p>4. Acesse o projeto no endereço "http://localhost:3000/"</p>
+<p>4. Instale os módulos das tecnologias requiridas no projeto com o comando <code>npm install express socket.io mongoose --save</code></p>
+<br>
+<p>5. Digite o comando <code>node index.js</code> no terminal do seu editor de código</p>
+<br>
+<p>6. Acesse o projeto no endereço "http://localhost:3000/"</p>
