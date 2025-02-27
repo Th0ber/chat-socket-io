@@ -1,6 +1,6 @@
 <h1>Chat Socket-io</h1>
 
-<p>Nesse projeto os usuário podem trocar mensagens em tempo real em um único ambiente, há dois formulário o primeiro é onde você digita o seu nome de usuário e o segundo formulário você digita a sua mensagem, depois dos dois formulários enviados os dados vão para o back-end através da emissão de uma mensagem socket, no back-end os dados são atualizados em um banco de dados mongodb, e o back-end emite outra mensagem socket para o front-end de atualização da tela através dos dados que estão no banco de dados.</p>
+<p>Aplicação web onde os usuários podem trocar mensagens em tempo real em um único ambiente, há dois formulário o primeiro é onde você digita o seu nome de usuário e o segundo formulário você digita a sua mensagem, depois dos dois formulários enviados os dados vão para o back-end através da emissão de uma mensagem socket, no back-end os dados são atualizados em um banco de dados mongodb, e o back-end emite outra mensagem socket para o front-end de atualização da tela através dos dados que estão no banco de dados.</p>
 
 <h2>Tecnologias Utilizadas 👨‍💻</h2>
 
